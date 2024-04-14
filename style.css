@@ -1,4 +1,8 @@
-.btn-calc {
-    width: 75px;
-    height: 75px;
+.btn-calc button {
+    width: 80px; /* ボタンの幅を固定 */
+    height: 80px; /* ボタンの高さを固定 */
+    line-height: 80px; /* ボタン内のテキストを中央揃え */
+    text-align: center; /* ボタン内のテキストを中央揃え */
+    padding: 0; /* ボタン内の余白を0に設定 */
 }
+

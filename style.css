@@ -1,8 +1,23 @@
+body {
+    text-align: center;
+}
+
 .btn-calc button {
     width: 80px; /* ボタンの幅を固定 */
     height: 80px; /* ボタンの高さを固定 */
     line-height: 80px; /* ボタン内のテキストを中央揃え */
     text-align: center; /* ボタン内のテキストを中央揃え */
     padding: 0; /* ボタン内の余白を0に設定 */
+}
+
+.btn-calc #initial {
+    width: 333px;
+    background-color: rgb(229, 210, 210);
+}
+
+p {
+    text-align: right;
+    margin-right: 20px;
+    border-style: none;
 }
 

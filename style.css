@@ -15,7 +15,7 @@
     margin-bottom: 5px;
 }
 
-#initial {
+#resultnum {
     width: 333px;
     height: 70px;
     background-color:rgb(229, 210, 210);
@@ -32,3 +32,8 @@
     background-color: rgb(255, 98, 0);
     color: white;
 }
+
+#ac {
+    display: inline;
+}
+

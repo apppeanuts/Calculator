@@ -60,7 +60,7 @@ percent.addEventListener('click', () => {
 // numのaddEventListener内に書く必要ありそうと思ってたが、ここでokなよう
 plusminus.addEventListener('click', () => {
     let lastNum = resultnum.textContent[resultnum.textContent.length - 1];
-    // slice(0, -1)なので、最初~最後から2番目となる。最後は含まないことが重要
+    // slice(0, -1)なので、(最初)~(最後から2番目) となる。最後は含まないことが重要
     resultnum.textContent = resultnum.textContent.slice(0, -1) + (-lastNum);
 });
 

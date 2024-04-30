@@ -1,7 +1,8 @@
-![Image](./Images/CalculatorScreenshot.png)
 
 ## Calculator
 Calculator with minimum functions.
+
+![Image](./Images/CalculatorScreenshot.png)
 
 ## Framework
 Use [Bootstrap](https://getbootstrap.jp/docs/5.3/getting-started/introduction/) as `HTML` / `CSS` framework.

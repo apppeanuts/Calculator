@@ -1,4 +1,4 @@
-![Image](Images/CalculatorScreenshot.png)
+![Image](./Images/CalculatorScreenshot.png)
 
 ## Calculator
 Calculator with minimum functions.

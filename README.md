@@ -1,4 +1,4 @@
-![Image](https://res-console.cloudinary.com/dz1exv6hm/thumbnails/v1/image/upload/v1714466935/6Zu75Y2T44K544Kv44K344OnX2U4YXFyZQ==/drilldown)
+![Image](Images/CalculatorScreenshot.png)
 
 ## Calculator
 Calculator with minimum functions.
